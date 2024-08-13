@@ -9,7 +9,7 @@ This repository is dedicated to maintaining a daily habit of coding by contribut
 * Sharing: Provide a useful repository of code snippets that others can learn from or use in their projects.
 
 ## 🚀 Getting Started
-Feel free to browse through the snippets in the snippets/ directory. Each file is named with the date it was created, followed by the language or topic. For example, 2024-08-10_snippet.py contains a Python snippet created on August 10, 2024.
+Feel free to browse through the snippets in the snippets/ directory. Each file is named with the date it was created, followed by the language or topic. 
 
 ## How to Use
 * Clone the Repository:
